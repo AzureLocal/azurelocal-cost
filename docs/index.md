@@ -1,8 +1,9 @@
 # Cost Management on Azure Local
 
-!!! warning "Under Active Development"
-    This repository is a work in progress. Scripts, templates, and automation are **not guaranteed to work** at this time. Use at your own risk and expect breaking changes.
-
+> [!WARNING]
+> **Under Active Development**
+> This repository is a work in progress. Scripts, templates, and automation are **not guaranteed to work** at this time. Use at your own risk and expect breaking changes.
+>
 Chargeback, showback, rightsizing, and cost reporting for Azure Local.
 
 ## Documentation
